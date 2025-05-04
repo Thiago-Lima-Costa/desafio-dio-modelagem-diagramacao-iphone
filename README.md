@@ -17,5 +17,6 @@ Funcionalidades a Modelar
 ---
 
 ![Diagrama de Classe](images/diagrama-de-classe.png)
+
 Diagrama elaborado com a ferramenta Umbrello
 
